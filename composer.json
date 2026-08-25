@@ -17,8 +17,8 @@
         "type": "git"
     },
     "replace": {
-        "cs_webp": "*",
-        "cs_clear_images": "*"
+        "typo3-ter/cs-webp": "*",
+        "typo3-ter/cs-clear-images": "*"
     },
     "require": {
         "typo3/cms-core": "7.6.*"
